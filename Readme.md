@@ -45,15 +45,15 @@ Welcome to the Complete Web Development Resources readme! Here, you'll find a co
 | YouTube Channels                     | Description                                  | Link                                            |
 |--------------------------------------|----------------------------------------------|-------------------------------------------------|
 | Free Code Camp                     | Learn to code for free.                      | [FreeCodeCamp](<https://www.youtube.com/c/Freecodecamp>)           |
-| Traversy Media                     | Web development tutorials and projects.      | [Traversy Media](<Traversy_Media_Link>)         |
-| Dev Ed                             | Creative coding tutorials and projects.      | [Dev Ed](<Dev_Ed_Link>)                         |
-| Programming With Mosh               | In-depth programming tutorials.              | [Programming With Mosh](<Programming_With_Mosh_Link>) |
-| Tyler Moore                        | Web design and development tutorials.       | [Tyler Moore](<Tyler_Moore_Link>)               |
-| Web Bos                            | Frontend development tutorials.             | [Web Bos](<Web_Bos_Link>)                       |
-| Coding The Smart Way              | Programming tutorials and guides.           | [Coding The Smart Way](<Coding_The_Smart_Way_Link>) |
-| Code With Harry                   | Programming tutorials in Hindi.            | [Code With Harry](<Code_With_Harry_Link>)       |
-| Clever Programmer                 | Learn coding and programming concepts.      | [Clever Programmer](<Clever_Programmer_Link>)   |
-| Yahoo Baba                        | Tech tutorials and coding tips.             | [Yahoo Baba](<Yahoo_Baba_Link>)                 |
+| Traversy Media                     | Web development tutorials and projects.      | [Traversy Media](<https://www.youtube.com/c/TraversyMedia>)         |
+| Dev Ed                             | Creative coding tutorials and projects.      | [Dev Ed](<https://www.youtube.com/c/DevEd>)                         |
+| Programming With Mosh               | In-depth programming tutorials.              | [Programming With Mosh](<https://www.youtube.com/c/programmingwithmosh>) |
+| Tyler Moore                        | Web design and development tutorials.       | [Tyler Moore](<https://www.youtube.com/c/DesignCourse>)               |
+| Web Bos                            | Frontend development tutorials.             | [Web Bos](<https://www.youtube.com/c/WesBos>)                       |
+| Coding The Smart Way              | Programming tutorials and guides.           | [Coding The Smart Way](<https://www.youtube.com/c/Codingthesmartway>) |
+| Code With Harry                   | Programming tutorials in Hindi.            | [Code With Harry](<https://www.youtube.com/c/CodeWithHarry>)       |
+| Clever Programmer                 | Learn coding and programming concepts.      | [Clever Programmer](<https://www.youtube.com/c/CleverProgrammer>)   |
+| Yahoo Baba                        | Tech tutorials and coding tips.             | [Yahoo Baba](<https://www.youtube.com/c/YahooBaba>)                 |
 
 ---
 </br>
@@ -76,20 +76,19 @@ Welcome to the Complete Web Development Resources readme! Here, you'll find a co
 
 | Cheat Sheets                    | Description                              | Link                                     |
 |------------------------------|------------------------------------------|------------------------------------------   |
-|  CSS Tricks                   | A collection of CSS tips and tricks.     | [Link](https://css-tricks.com/)           |
-|  Smashing Magazine             | Quality articles for web designers.      | [Link](https://www.smashingmagazine.com/)|
-|  SitePoint                    | Learn web development and design.        | [Link](https://www.sitepoint.com/)        |
-|  Dev Community                | Where programmers share ideas and help.  | [Link](https://dev.to/)                  |
-|  Envato Tuts                  | Tutorials for creative and tech skills.  | [Link](https://tutsplus.envato.com/)     |
-|  Medium                       | Personalized insights from experts.      | [Link](https://medium.com/)              |
-|  Over API                     | Collection of API cheat sheets.          | [Link](https://overapi.com/)             |
-|  Awesome cheat sheets         | A list of awesome cheat sheets.          | [Link](https://github.com/detailyang/awesome-cheatsheet) |
-|  HTML5 Element Index          | Comprehensive index of HTML elements.    | [Link](https://html5elementindex.com/)   |
-|  HTML CheatSheet              | Handy HTML cheat sheet for developers.   | [Link](https://htmlcheatsheet.com/)      |
-|  Can I use                    | Browser compatibility tables for support.| [Link](https://caniuse.com/)             |
-|  CSS Animation                | Guide to CSS animations and transitions.| [Link](https://cssanimation.rocks/)     |
-|  CSS Grid Cheat Sheet         | Quick reference for CSS Grid properties. | [Link](https://grid.malven.co/)          |
-|  CSS Flexbox Cheat Sheet      | Visual guide to CSS Flexbox properties.  | [Link](https://flexbox.malven.co/)       |
+|  CSS Tricks                   | A collection of CSS tips and tricks.     | [CSS](https://css-tricks.com/)           |
+|  Smashing Magazine             | Quality articles for web designers.      | [Magazine](https://www.smashingmagazine.com/)|
+|  SitePoint                    | Learn web development and design.        | [SitePoint](https://www.sitepoint.com/)        |
+|  Dev Community                | Where programmers share ideas and help.  | [Dev](https://dev.to/)                  |
+|  Envato Tuts                  | Tutorials for creative and tech skills.  | [Envato](https://tutsplus.envato.com/)     |
+|  Medium                       | Personalized insights from experts.      | [Medium](https://medium.com/)              |
+|  Over API                     | Collection of API cheat sheets.          | [API](https://overapi.com/)             |
+|  Awesome cheat sheets         | A list of awesome cheat sheets.          | [Cheat](https://github.com/detailyang/awesome-cheatsheet) |
+|  HTML5 Element Index          | Comprehensive index of HTML elements.    | [Elements](https://html5elementindex.com/)   |
+|  Can I use                    | Browser compatibility tables for support.| [Can I Use](https://caniuse.com/)             |
+|  CSS Animation                | Guide to CSS animations and transitions.| [Animation](https://cssanimation.rocks/)     |
+|  CSS Grid Cheat Sheet         | Quick reference for CSS Grid properties. | [Grid Cheat](https://grid.malven.co/)          |
+|  CSS Flexbox Cheat Sheet      | Visual guide to CSS Flexbox properties.  | [Flexbox](https://flexbox.malven.co/)       |
 
 ---
 </br>
