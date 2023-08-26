@@ -14,7 +14,7 @@ Welcome to the Complete Web Development Resources readme! Here, you'll find a co
 | Next.js Handbook                         | Handbook for Next.js. 📘                       | [Next.js Handbook](<https://drive.google.com/file/d/1cgD5BzYF-3LL1Wp2aDBQh7XdFi49n5vR/view>)    |
 | Node.js Cheat Sheets                     | Handy Node.js cheat sheets. 📑                  | [Node.js Cheat Sheet 1](<https://drive.google.com/file/d/1HzOb1-JJRVr-vON2xNOjJ3R7jIHEKE2o/view>) |
 | REST and HTTP                            | Guide on REST and HTTP. 🌐                     | [REST and HTTP](<https://drive.google.com/file/d/1T543boxR2uLfxgJPdSwg76wE84CcH5Xy/view>)          |
-| Web3 Buzzwords Explained                 | Explanation of Web3 buzzwords. 🌍              | [Web3 Buzzwords Explained](<https://drive.google.com/file/d/1TqTrQbGQG5A7Dn8uhthvSb2_ogUVBxmC/view>) |
+| Web3 Buzzwords Explained                 | Explanation of Web3 buzzwords. 🌍              | [Web3 Buzzwords Explained](<https://drive.google.com/file/d/1smbWNhVmGc4xWBpQgJvCB8PFa33K340J/view>) |
 | Collapsible Borders with CSS             | Using outline for collapsible borders. 📏      | [Using Outline as Collapsible Border in CSS](<https://drive.google.com/file/d/1TqTrQbGQG5A7Dn8uhthvSb2_ogUVBxmC/view>) |
 | Web Cache                                | Understanding web caching. 🕸️                 | [Web Cache](<https://drive.google.com/file/d/12-bG6nmXV2hkh9R_IxZpwkFPinQjMAZz/view>)                  |
 | Responsive Design in CSS                 | Guide to responsive design. 🌄                | [Responsive Design in CSS](<https://drive.google.com/file/d/1FCfvueeV93fAdg-O1S0-zIwqIAD96Xx4/view>) |
