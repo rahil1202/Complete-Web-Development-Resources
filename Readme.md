@@ -6,7 +6,7 @@ Welcome to the Complete Web Development Resources readme! Here, you'll find a co
 
 | Section                                  | Description                                           | Link                                            |
 |------------------------------------------|-------------------------------------------------------|-------------------------------------------------|
-| Front End Development Roadmap            | Roadmap for frontend development. 🛤️               | [Link](<https://drive.google.com/file/d/1pP_KXCZH_NSp0mDALAyiUpjngQIu_bzD/view>)|
+| Front End Development Roadmap            | Roadmap for frontend development. 🛤️               | [Roadmap](<https://drive.google.com/file/d/1pP_KXCZH_NSp0mDALAyiUpjngQIu_bzD/view>)|
 | Git Cheat Sheets                         | Handy Git cheat sheets. 🗂️                        | [Git Cheat Sheet 1](<https://drive.google.com/file/d/1Qicn-30T2FSzm9Uka3V2E0tOeiuDLuGx/view>)|
 | HTML Cheat Sheet                         | Quick reference for HTML. 📄                     | [HTML Cheat Sheet](<https://drive.google.com/file/d/1glGnPWKv3Wg6-1lxn7oLp-Y4u7-dbTRt/view>)     |
 | MongoDB Cheat Sheet                      | Quick reference for MongoDB. 🍃                 | [MongoDB Cheat Sheet](<https://drive.google.com/file/d/1V_PW3IQR6_m0951KeHkkTG7X3str_Icv/view>) |
