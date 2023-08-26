@@ -58,5 +58,43 @@ Welcome to the Complete Web Development Resources readme! Here, you'll find a co
 ---
 </br>
 
+## Blogs 📜
+
+| #  | Resource                 | Description                              | Link                                     |
+|----|--------------------------|------------------------------------------|------------------------------------------|
+|  CSS Tricks               | A collection of CSS tips and tricks.     | [Link](https://css-tricks.com/)           |
+| Smashing Magazine        | Quality articles for web designers.      | [Link](https://www.smashingmagazine.com/) |
+|  SitePoint                | Learn web development and design.        | [Link](https://www.sitepoint.com/)        |
+|  Dev Community            | Where programmers share ideas and help.  | [Link](https://dev.to/)                  |
+|  Envato Tuts              | Tutorials for creative and tech skills.  | [Link](https://tutsplus.envato.com/)     |
+|  Medium                   | Personalized insights from experts.      | [Link](https://medium.com/)              |
+
+---
+</br>
+
+## Cheat Sheets 🌀
+
+| #  | Resource                     | Description                              | Link                                     |
+|----|------------------------------|------------------------------------------|------------------------------------------|
+|  CSS Tricks                   | A collection of CSS tips and tricks.     | [Link](https://css-tricks.com/)           |
+|  Smashing Magazine             | Quality articles for web designers.      | [Link](https://www.smashingmagazine.com/)|
+|  SitePoint                    | Learn web development and design.        | [Link](https://www.sitepoint.com/)        |
+|  Dev Community                | Where programmers share ideas and help.  | [Link](https://dev.to/)                  |
+|  Envato Tuts                  | Tutorials for creative and tech skills.  | [Link](https://tutsplus.envato.com/)     |
+|  Medium                       | Personalized insights from experts.      | [Link](https://medium.com/)              |
+|  Over API                     | Collection of API cheat sheets.          | [Link](https://overapi.com/)             |
+|  Awesome cheat sheets         | A list of awesome cheat sheets.          | [Link](https://github.com/detailyang/awesome-cheatsheet) |
+|  HTML5 Element Index          | Comprehensive index of HTML elements.    | [Link](https://html5elementindex.com/)   |
+|  HTML CheatSheet              | Handy HTML cheat sheet for developers.   | [Link](https://htmlcheatsheet.com/)      |
+|  Can I use                    | Browser compatibility tables for support.| [Link](https://caniuse.com/)             |
+|  CSS Animation                | Guide to CSS animations and transitions.| [Link](https://cssanimation.rocks/)     |
+|  CSS Grid Cheat Sheet         | Quick reference for CSS Grid properties. | [Link](https://grid.malven.co/)          |
+|  CSS Flexbox Cheat Sheet      | Visual guide to CSS Flexbox properties.  | [Link](https://flexbox.malven.co/)       |
+
+---
+</br>
+
+
+
 
 Feel free to explore these resources and embark on your web development journey! Remember, consistent practice and learning are key. Happy coding! 🌟
