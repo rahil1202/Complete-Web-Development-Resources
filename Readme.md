@@ -20,6 +20,7 @@ Welcome to the Complete Web Development Resources readme! Here, you'll find a co
 | Responsive Design in CSS                 | Guide to responsive design.                 | [Responsive Design in CSS](<https://drive.google.com/file/d/1FCfvueeV93fAdg-O1S0-zIwqIAD96Xx4/view>) |
 
 ---
+</br>
 
 ## Online Platforms 🖥️
 
@@ -37,6 +38,7 @@ Welcome to the Complete Web Development Resources readme! Here, you'll find a co
 | Traversy Media                          | YouTube tutorials on web development.        | [Traversy Media](https://www.traversymedia.com/)|
 
 ---
+</br>
 
 ## Youtube Channels 🎥
 
@@ -54,6 +56,7 @@ Welcome to the Complete Web Development Resources readme! Here, you'll find a co
 | Yahoo Baba                        | Tech tutorials and coding tips.             | [Yahoo Baba](<Yahoo_Baba_Link>)                 |
 
 ---
+</br>
 
 
 Feel free to explore these resources and embark on your web development journey! Remember, consistent practice and learning are key. Happy coding! 🌟
