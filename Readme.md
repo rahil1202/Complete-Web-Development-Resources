@@ -44,7 +44,7 @@ Welcome to the Complete Web Development Resources readme! Here, you'll find a co
 
 | YouTube Channels                     | Description                                  | Link                                            |
 |--------------------------------------|----------------------------------------------|-------------------------------------------------|
-| Free Code Camp                     | Learn to code for free.                      | [FreeCodeCamp](<Free_Code_Camp_Link>)           |
+| Free Code Camp                     | Learn to code for free.                      | [FreeCodeCamp](<https://www.youtube.com/c/Freecodecamp>)           |
 | Traversy Media                     | Web development tutorials and projects.      | [Traversy Media](<Traversy_Media_Link>)         |
 | Dev Ed                             | Creative coding tutorials and projects.      | [Dev Ed](<Dev_Ed_Link>)                         |
 | Programming With Mosh               | In-depth programming tutorials.              | [Programming With Mosh](<Programming_With_Mosh_Link>) |
@@ -60,22 +60,22 @@ Welcome to the Complete Web Development Resources readme! Here, you'll find a co
 
 ## Blogs 📜
 
-| #  | Resource                 | Description                              | Link                                     |
-|----|--------------------------|------------------------------------------|------------------------------------------|
-|  CSS Tricks               | A collection of CSS tips and tricks.     | [Link](https://css-tricks.com/)           |
-| Smashing Magazine        | Quality articles for web designers.      | [Link](https://www.smashingmagazine.com/) |
-|  SitePoint                | Learn web development and design.        | [Link](https://www.sitepoint.com/)        |
-|  Dev Community            | Where programmers share ideas and help.  | [Link](https://dev.to/)                  |
-|  Envato Tuts              | Tutorials for creative and tech skills.  | [Link](https://tutsplus.envato.com/)     |
-|  Medium                   | Personalized insights from experts.      | [Link](https://medium.com/)              |
+| Blogs                         | Description                              | Link                                     |
+|--------------------------|------------------------------------------|------------------------------------------|
+|  CSS Tricks               | A collection of CSS tips and tricks.     | [CSS Tricks](https://css-tricks.com/)           |
+| Smashing Magazine        | Quality articles for web designers.      | [Smashing](https://www.smashingmagazine.com/) |
+|  SitePoint                | Learn web development and design.        | [SitePoint](https://www.sitepoint.com/)        |
+|  Dev Community            | Where programmers share ideas and help.  | [Dev](https://dev.to/)                  |
+|  Envato Tuts              | Tutorials for creative and tech skills.  | [Tuts](https://tutsplus.envato.com/)     |
+|  Medium                   | Personalized insights from experts.      | [Medium](https://medium.com/)              |
 
 ---
 </br>
 
 ## Cheat Sheets 🌀
 
-| #  | Resource                     | Description                              | Link                                     |
-|----|------------------------------|------------------------------------------|------------------------------------------|
+| Cheat Sheets                    | Description                              | Link                                     |
+|------------------------------|------------------------------------------|------------------------------------------   |
 |  CSS Tricks                   | A collection of CSS tips and tricks.     | [Link](https://css-tricks.com/)           |
 |  Smashing Magazine             | Quality articles for web designers.      | [Link](https://www.smashingmagazine.com/)|
 |  SitePoint                    | Learn web development and design.        | [Link](https://www.sitepoint.com/)        |
