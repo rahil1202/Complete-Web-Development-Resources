@@ -15,13 +15,13 @@ Welcome to the Complete Web Development Resources readme! Here, you'll find a co
 | Node.js Cheat Sheets                     | Handy Node.js cheat sheets.                   | [Node.js Cheat Sheet 1](<https://drive.google.com/file/d/1HzOb1-JJRVr-vON2xNOjJ3R7jIHEKE2o/view>) |
 | REST and HTTP                            | Guide on REST and HTTP.                      | [REST and HTTP](<https://drive.google.com/file/d/1T543boxR2uLfxgJPdSwg76wE84CcH5Xy/view>)          |
 | Web3 Buzzwords Explained                 | Explanation of Web3 buzzwords.               | [Web3 Buzzwords Explained](<https://drive.google.com/file/d/1smbWNhVmGc4xWBpQgJvCB8PFa33K340J/view>) |
-| Collapsible Borders with CSS             | Using outline for collapsible borders.      | [Using Outline as Collapsible Border in CSS]<https://drive.google.com/file/d/1TqTrQbGQG5A7Dn8uhthvSb2_ogUVBxmC/view>)|
+| Collapsible Borders with CSS             | Using outline for collapsible borders.      | [Using Outline as Collapsible Border in CSS](<https://drive.google.com/file/d/1TqTrQbGQG5A7Dn8uhthvSb2_ogUVBxmC/view>)|
 | Web Cache                                | Understanding web caching.                  | [Web Cache](<https://drive.google.com/file/d/12-bG6nmXV2hkh9R_IxZpwkFPinQjMAZz/view>) |
 | Responsive Design in CSS                 | Guide to responsive design.                 | [Responsive Design in CSS](<https://drive.google.com/file/d/1FCfvueeV93fAdg-O1S0-zIwqIAD96Xx4/view>) |
 
 ---
 
-## Online Platforms
+## Online Platforms 🖥️
 
 | Online Learning Platform                | Description                                   | Link                                           |
 |-----------------------------------------|-----------------------------------------------|------------------------------------------------|
@@ -38,7 +38,22 @@ Welcome to the Complete Web Development Resources readme! Here, you'll find a co
 
 ---
 
-## Youtube Channels
+## Youtube Channels 🎥
+
+| YouTube Channels                     | Description                                  | Link                                            |
+|--------------------------------------|----------------------------------------------|-------------------------------------------------|
+| Free Code Camp                     | Learn to code for free.                      | [FreeCodeCamp](<Free_Code_Camp_Link>)           |
+| Traversy Media                     | Web development tutorials and projects.      | [Traversy Media](<Traversy_Media_Link>)         |
+| Dev Ed                             | Creative coding tutorials and projects.      | [Dev Ed](<Dev_Ed_Link>)                         |
+| Programming With Mosh               | In-depth programming tutorials.              | [Programming With Mosh](<Programming_With_Mosh_Link>) |
+| Tyler Moore                        | Web design and development tutorials.       | [Tyler Moore](<Tyler_Moore_Link>)               |
+| Web Bos                            | Frontend development tutorials.             | [Web Bos](<Web_Bos_Link>)                       |
+| Coding The Smart Way              | Programming tutorials and guides.           | [Coding The Smart Way](<Coding_The_Smart_Way_Link>) |
+| Code With Harry                   | Programming tutorials in Hindi.            | [Code With Harry](<Code_With_Harry_Link>)       |
+| Clever Programmer                 | Learn coding and programming concepts.      | [Clever Programmer](<Clever_Programmer_Link>)   |
+| Yahoo Baba                        | Tech tutorials and coding tips.             | [Yahoo Baba](<Yahoo_Baba_Link>)                 |
+
+---
 
 
 Feel free to explore these resources and embark on your web development journey! Remember, consistent practice and learning are key. Happy coding! 🌟
